@@ -1,0 +1,17 @@
+.wrapper{
+    display: flex;
+    margin-top: 20px;
+}
+
+.img{
+    width: 300px;
+    margin-right: 20px;
+}
+
+.description
+{margin-right: 50px;}
+
+.list{
+    list-style: none;
+    font-size: 20px;
+}
